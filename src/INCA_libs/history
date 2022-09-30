@@ -1,0 +1,9 @@
+//
+// File created by:  irun
+// Do not modify this file
+
+s1::(14Sep2022:12:13:52):( ncverilog -sv alu.sv )
+s2::(14Sep2022:12:14:08):( ncverilog -sv cpu.sv )
+s3::(14Sep2022:12:22:44):( ncverilog -sv cpu.sv )
+s4::(14Sep2022:12:23:13):( ncverilog -sv cpu.sv )
+s5::(14Sep2022:12:23:30):( ncverilog -sv cpu.sv )
